@@ -1,0 +1,21 @@
+{
+  "type": "plants_and_rocks:stony_delta",
+  "config": {
+    "contents": {
+      "Name": "minecraft:water"
+    },
+    "rim": {
+      "Name": "minecraft:stone"
+    },
+    "size": {
+      "type": "uniform",
+      "min_inclusive": 3,
+      "max_inclusive": 7
+    },
+    "rim_size": {
+      "type": "uniform",
+      "min_inclusive": 0,
+      "max_inclusive": 2
+    }
+  }
+}

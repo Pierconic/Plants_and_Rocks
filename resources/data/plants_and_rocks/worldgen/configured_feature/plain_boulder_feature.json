@@ -1,0 +1,109 @@
+{
+  "type": "plants_and_rocks:plain_boulder_feature",
+  "config": {
+    "features": [
+      {
+        "feature": {
+          "type": "plants_and_rocks:structure_feature",
+          "config": {
+            "structure": "plants_and_rocks:plain_boulder_1",
+            "random_rotation": true,
+            "random_mirror": true,
+            "ignored_blocks": "minecraft:structure_block",
+            "offset": [
+              0,
+              -2,
+              0
+            ]
+          }
+        },
+        "placement": []
+      },
+      {
+        "feature": {
+          "type": "plants_and_rocks:structure_feature",
+          "config": {
+            "structure": "plants_and_rocks:plain_boulder_2",
+            "random_rotation": true,
+            "random_mirror": true,
+            "ignored_blocks": "minecraft:structure_block",
+            "offset": [
+              0,
+              -2,
+              0
+            ]
+          }
+        },
+        "placement": []
+      },
+      {
+        "feature": {
+          "type": "plants_and_rocks:structure_feature",
+          "config": {
+            "structure": "plants_and_rocks:plain_boulder_3",
+            "random_rotation": true,
+            "random_mirror": true,
+            "ignored_blocks": "minecraft:structure_block",
+            "offset": [
+              0,
+              -2,
+              0
+            ]
+          }
+        },
+        "placement": []
+      },
+      {
+        "feature": {
+          "type": "plants_and_rocks:structure_feature",
+          "config": {
+            "structure": "plants_and_rocks:plain_boulder_4",
+            "random_rotation": true,
+            "random_mirror": true,
+            "ignored_blocks": "minecraft:structure_block",
+            "offset": [
+              0,
+              -2,
+              0
+            ]
+          }
+        },
+        "placement": []
+      },
+      {
+        "feature": {
+          "type": "plants_and_rocks:structure_feature",
+          "config": {
+            "structure": "plants_and_rocks:plain_boulder_5",
+            "random_rotation": true,
+            "random_mirror": true,
+            "ignored_blocks": "minecraft:structure_block",
+            "offset": [
+              0,
+              -2,
+              0
+            ]
+          }
+        },
+        "placement": []
+      },
+      {
+        "feature": {
+          "type": "plants_and_rocks:structure_feature",
+          "config": {
+            "structure": "plants_and_rocks:plain_boulder_6",
+            "random_rotation": true,
+            "random_mirror": true,
+            "ignored_blocks": "minecraft:structure_block",
+            "offset": [
+              0,
+              -2,
+              0
+            ]
+          }
+        },
+        "placement": []
+      }
+    ]
+  }
+}

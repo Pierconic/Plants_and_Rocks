@@ -1,0 +1,9 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": [
+    "bamboo_jungle",
+    "jungle"
+  ],
+  "features": "plants_and_rocks:jungle_rock",
+  "step": "surface_structures"
+}

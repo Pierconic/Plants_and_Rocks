@@ -1,0 +1,43 @@
+{
+  "type": "plants_and_rocks:giant_log_feature",
+  "config": {
+    "features": [
+      {
+        "feature": {
+          "type": "plants_and_rocks:structure_feature",
+          "config": {
+            "structure": "plants_and_rocks:giant_log_1",
+            "random_rotation": true,
+            "random_mirror": true,
+            "ignored_blocks": "minecraft:structure_block"
+          }
+        },
+        "placement": []
+      },
+      {
+        "feature": {
+          "type": "plants_and_rocks:structure_feature",
+          "config": {
+            "structure": "plants_and_rocks:giant_log_2",
+            "random_rotation": true,
+            "random_mirror": true,
+            "ignored_blocks": "minecraft:structure_block"
+          }
+        },
+        "placement": []
+      },
+      {
+        "feature": {
+          "type": "plants_and_rocks:structure_feature",
+          "config": {
+            "structure": "plants_and_rocks:giant_log_3",
+            "random_rotation": true,
+            "random_mirror": true,
+            "ignored_blocks": "minecraft:structure_block"
+          }
+        },
+        "placement": []
+      }
+    ]
+  }
+}

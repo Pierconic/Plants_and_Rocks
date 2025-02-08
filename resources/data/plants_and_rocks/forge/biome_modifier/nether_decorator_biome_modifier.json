@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "#is_nether",
+  "features": "plants_and_rocks:nether_decorator",
+  "step": "surface_structures"
+}

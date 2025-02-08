@@ -1,0 +1,9 @@
+{
+  "type": "plants_and_rocks:nether_rock_3_feature",
+  "config": {
+    "structure": "plants_and_rocks:nether_rock_3",
+    "random_rotation": true,
+    "random_mirror": true,
+    "ignored_blocks": "minecraft:structure_block"
+  }
+}

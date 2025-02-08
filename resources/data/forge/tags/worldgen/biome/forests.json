@@ -1,0 +1,27 @@
+{
+  "replace": false,
+  "values": [
+    "birch_forest",
+    "cherry_grove",
+    "crimson_forest",
+    "dark_forest",
+    "flower_forest",
+    "forest",
+    "grove",
+    "jungle",
+    "mangrove_swamp",
+    "old_growth_birch_forest",
+    "old_growth_pine_taiga",
+    "old_growth_spruce_taiga",
+    "savanna",
+    "savanna_plateau",
+    "snowy_taiga",
+    "sparse_jungle",
+    "swamp",
+    "taiga",
+    "warped_forest",
+    "windswept_forest",
+    "windswept_savanna",
+    "wooded_badlands"
+  ]
+}

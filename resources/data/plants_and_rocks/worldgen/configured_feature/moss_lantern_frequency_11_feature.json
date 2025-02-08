@@ -1,0 +1,9 @@
+{
+  "type": "plants_and_rocks:moss_lantern_frequency_11_feature",
+  "config": {
+    "structure": "plants_and_rocks:shroomlight",
+    "random_rotation": true,
+    "random_mirror": true,
+    "ignored_blocks": "minecraft:structure_block"
+  }
+}

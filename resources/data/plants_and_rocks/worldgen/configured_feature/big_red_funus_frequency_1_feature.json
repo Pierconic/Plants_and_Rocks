@@ -1,0 +1,9 @@
+{
+  "type": "plants_and_rocks:big_red_funus_frequency_1_feature",
+  "config": {
+    "structure": "plants_and_rocks:red_shroom_big1",
+    "random_rotation": true,
+    "random_mirror": true,
+    "ignored_blocks": "minecraft:structure_block"
+  }
+}

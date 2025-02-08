@@ -1,0 +1,9 @@
+{
+  "type": "plants_and_rocks:fungi_frequency_feature",
+  "config": {
+    "structure": "plants_and_rocks:red_shroom_big1",
+    "random_rotation": true,
+    "random_mirror": true,
+    "ignored_blocks": "minecraft:structure_block"
+  }
+}

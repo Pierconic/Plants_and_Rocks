@@ -1,0 +1,9 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": [
+    "jungle",
+    "sparse_jungle"
+  ],
+  "features": "plants_and_rocks:giant_jungle_stump",
+  "step": "surface_structures"
+}

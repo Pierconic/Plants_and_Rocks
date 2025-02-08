@@ -1,0 +1,6 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "plains",
+  "features": "plants_and_rocks:plain_pebble_feature",
+  "step": "surface_structures"
+}

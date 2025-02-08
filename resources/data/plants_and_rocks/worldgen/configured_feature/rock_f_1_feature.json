@@ -1,0 +1,9 @@
+{
+  "type": "plants_and_rocks:rock_f_1_feature",
+  "config": {
+    "structure": "plants_and_rocks:nether_rock_1",
+    "random_rotation": true,
+    "random_mirror": true,
+    "ignored_blocks": "minecraft:structure_block"
+  }
+}

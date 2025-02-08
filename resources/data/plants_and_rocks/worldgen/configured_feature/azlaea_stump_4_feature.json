@@ -1,0 +1,14 @@
+{
+  "type": "plants_and_rocks:azlaea_stump_4_feature",
+  "config": {
+    "structure": "plants_and_rocks:azalea_stump_3aa",
+    "random_rotation": true,
+    "random_mirror": true,
+    "ignored_blocks": "minecraft:structure_block",
+    "offset": [
+      0,
+      1,
+      0
+    ]
+  }
+}

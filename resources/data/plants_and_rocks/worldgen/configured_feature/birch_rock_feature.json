@@ -1,0 +1,143 @@
+{
+  "type": "plants_and_rocks:birch_rock_feature",
+  "config": {
+    "features": [
+      {
+        "feature": {
+          "type": "plants_and_rocks:structure_feature",
+          "config": {
+            "structure": "plants_and_rocks:birch_rock_1",
+            "random_rotation": true,
+            "random_mirror": true,
+            "ignored_blocks": "minecraft:structure_block",
+            "offset": [
+              0,
+              -2,
+              0
+            ]
+          }
+        },
+        "placement": []
+      },
+      {
+        "feature": {
+          "type": "plants_and_rocks:structure_feature",
+          "config": {
+            "structure": "plants_and_rocks:birch_rock_2",
+            "random_rotation": true,
+            "random_mirror": true,
+            "ignored_blocks": "minecraft:structure_block",
+            "offset": [
+              0,
+              -2,
+              0
+            ]
+          }
+        },
+        "placement": []
+      },
+      {
+        "feature": {
+          "type": "plants_and_rocks:structure_feature",
+          "config": {
+            "structure": "plants_and_rocks:birch_rock_3",
+            "random_rotation": true,
+            "random_mirror": true,
+            "ignored_blocks": "minecraft:structure_block",
+            "offset": [
+              0,
+              -2,
+              0
+            ]
+          }
+        },
+        "placement": []
+      },
+      {
+        "feature": {
+          "type": "plants_and_rocks:structure_feature",
+          "config": {
+            "structure": "plants_and_rocks:birch_rock_4",
+            "random_rotation": true,
+            "random_mirror": true,
+            "ignored_blocks": "minecraft:structure_block",
+            "offset": [
+              0,
+              -2,
+              0
+            ]
+          }
+        },
+        "placement": []
+      },
+      {
+        "feature": {
+          "type": "plants_and_rocks:structure_feature",
+          "config": {
+            "structure": "plants_and_rocks:birch_rock_5",
+            "random_rotation": true,
+            "random_mirror": true,
+            "ignored_blocks": "minecraft:structure_block",
+            "offset": [
+              0,
+              -2,
+              0
+            ]
+          }
+        },
+        "placement": []
+      },
+      {
+        "feature": {
+          "type": "plants_and_rocks:structure_feature",
+          "config": {
+            "structure": "plants_and_rocks:birch_rock_6",
+            "random_rotation": true,
+            "random_mirror": true,
+            "ignored_blocks": "minecraft:structure_block",
+            "offset": [
+              0,
+              -2,
+              0
+            ]
+          }
+        },
+        "placement": []
+      },
+      {
+        "feature": {
+          "type": "plants_and_rocks:structure_feature",
+          "config": {
+            "structure": "plants_and_rocks:birch_rock_7",
+            "random_rotation": true,
+            "random_mirror": true,
+            "ignored_blocks": "minecraft:structure_block",
+            "offset": [
+              0,
+              -2,
+              0
+            ]
+          }
+        },
+        "placement": []
+      },
+      {
+        "feature": {
+          "type": "plants_and_rocks:structure_feature",
+          "config": {
+            "structure": "plants_and_rocks:birch_rock_8",
+            "random_rotation": true,
+            "random_mirror": true,
+            "ignored_blocks": "minecraft:structure_block",
+            "offset": [
+              0,
+              -2,
+              0
+            ]
+          }
+        },
+        "placement": []
+      }
+    ]
+  }
+}

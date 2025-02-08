@@ -1,0 +1,55 @@
+{
+  "type": "plants_and_rocks:fallen_mangrove",
+  "config": {
+    "features": [
+      {
+        "feature": {
+          "type": "plants_and_rocks:structure_feature",
+          "config": {
+            "structure": "plants_and_rocks:mangrove_log_1",
+            "random_rotation": true,
+            "random_mirror": true,
+            "ignored_blocks": "minecraft:structure_block"
+          }
+        },
+        "placement": []
+      },
+      {
+        "feature": {
+          "type": "plants_and_rocks:structure_feature",
+          "config": {
+            "structure": "plants_and_rocks:mangrove_log_2",
+            "random_rotation": true,
+            "random_mirror": true,
+            "ignored_blocks": "minecraft:structure_block"
+          }
+        },
+        "placement": []
+      },
+      {
+        "feature": {
+          "type": "plants_and_rocks:structure_feature",
+          "config": {
+            "structure": "plants_and_rocks:mangrove_log_3",
+            "random_rotation": true,
+            "random_mirror": true,
+            "ignored_blocks": "minecraft:structure_block"
+          }
+        },
+        "placement": []
+      },
+      {
+        "feature": {
+          "type": "plants_and_rocks:structure_feature",
+          "config": {
+            "structure": "plants_and_rocks:mangrove_log_4",
+            "random_rotation": true,
+            "random_mirror": true,
+            "ignored_blocks": "minecraft:structure_block"
+          }
+        },
+        "placement": []
+      }
+    ]
+  }
+}

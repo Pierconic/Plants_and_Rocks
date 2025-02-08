@@ -1,0 +1,9 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": [
+    "dark_forest",
+    "mushroom_fields"
+  ],
+  "features": "plants_and_rocks:medium_red_fungus_2_feature",
+  "step": "surface_structures"
+}

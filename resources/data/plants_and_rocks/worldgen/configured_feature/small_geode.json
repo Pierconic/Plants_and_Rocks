@@ -1,0 +1,67 @@
+{
+  "type": "plants_and_rocks:small_geode",
+  "config": {
+    "features": [
+      {
+        "feature": {
+          "type": "plants_and_rocks:structure_feature",
+          "config": {
+            "structure": "plants_and_rocks:geode_1",
+            "random_rotation": true,
+            "random_mirror": true,
+            "ignored_blocks": "minecraft:structure_block"
+          }
+        },
+        "placement": []
+      },
+      {
+        "feature": {
+          "type": "plants_and_rocks:structure_feature",
+          "config": {
+            "structure": "plants_and_rocks:geode_2",
+            "random_rotation": true,
+            "random_mirror": true,
+            "ignored_blocks": "minecraft:structure_block"
+          }
+        },
+        "placement": []
+      },
+      {
+        "feature": {
+          "type": "plants_and_rocks:structure_feature",
+          "config": {
+            "structure": "plants_and_rocks:geode_3",
+            "random_rotation": true,
+            "random_mirror": true,
+            "ignored_blocks": "minecraft:structure_block"
+          }
+        },
+        "placement": []
+      },
+      {
+        "feature": {
+          "type": "plants_and_rocks:structure_feature",
+          "config": {
+            "structure": "plants_and_rocks:geode_4",
+            "random_rotation": true,
+            "random_mirror": true,
+            "ignored_blocks": "minecraft:structure_block"
+          }
+        },
+        "placement": []
+      },
+      {
+        "feature": {
+          "type": "plants_and_rocks:structure_feature",
+          "config": {
+            "structure": "plants_and_rocks:geode_5",
+            "random_rotation": true,
+            "random_mirror": true,
+            "ignored_blocks": "minecraft:structure_block"
+          }
+        },
+        "placement": []
+      }
+    ]
+  }
+}

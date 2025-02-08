@@ -1,0 +1,6 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "lush_caves",
+  "features": "plants_and_rocks:moss_lantern_frequency_11_feature",
+  "step": "underground_structures"
+}

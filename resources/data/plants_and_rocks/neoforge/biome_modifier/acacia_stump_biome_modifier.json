@@ -1,0 +1,10 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": [
+    "savanna",
+    "savanna_plateau",
+    "windswept_savanna"
+  ],
+  "features": "plants_and_rocks:acacia_stump",
+  "step": "surface_structures"
+}

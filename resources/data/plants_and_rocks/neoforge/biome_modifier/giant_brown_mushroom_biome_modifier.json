@@ -1,0 +1,6 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "mushroom_fields",
+  "features": "plants_and_rocks:giant_brown_mushroom",
+  "step": "surface_structures"
+}

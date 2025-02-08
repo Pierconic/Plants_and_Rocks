@@ -1,0 +1,9 @@
+{
+  "parent": "plants_and_rocks:custom/voidblock",
+  "textures": {
+    "all": "plants_and_rocks:block/genblockspreadertemplate",
+    "particle": "plants_and_rocks:block/genblockspreadertemplate",
+    "0": "plants_and_rocks:block/voidtexture"
+  },
+  "render_type": "translucent"
+}

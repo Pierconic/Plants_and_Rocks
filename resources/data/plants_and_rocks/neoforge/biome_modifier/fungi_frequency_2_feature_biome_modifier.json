@@ -1,0 +1,6 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "mushroom_fields",
+  "features": "plants_and_rocks:fungi_frequency_2_feature",
+  "step": "surface_structures"
+}

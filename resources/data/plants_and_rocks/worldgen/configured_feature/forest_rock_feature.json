@@ -1,0 +1,134 @@
+{
+  "type": "plants_and_rocks:forest_rock_feature",
+  "config": {
+    "default": {
+      "feature": {
+        "type": "minecraft:no_op",
+        "config": {}
+      },
+      "placement": []
+    },
+    "features": [
+      {
+        "chance": 0.2,
+        "feature": {
+          "feature": {
+            "type": "plants_and_rocks:structure_feature",
+            "config": {
+              "structure": "plants_and_rocks:forest_rock_1",
+              "random_rotation": true,
+              "random_mirror": true,
+              "ignored_blocks": "minecraft:structure_block",
+              "offset": [
+                0,
+                -1,
+                0
+              ]
+            }
+          },
+          "placement": []
+        }
+      },
+      {
+        "chance": 0.2,
+        "feature": {
+          "feature": {
+            "type": "plants_and_rocks:structure_feature",
+            "config": {
+              "structure": "plants_and_rocks:forest_rock_2",
+              "random_rotation": true,
+              "random_mirror": true,
+              "ignored_blocks": "minecraft:structure_block",
+              "offset": [
+                0,
+                -1,
+                0
+              ]
+            }
+          },
+          "placement": []
+        }
+      },
+      {
+        "chance": 0.2,
+        "feature": {
+          "feature": {
+            "type": "plants_and_rocks:structure_feature",
+            "config": {
+              "structure": "plants_and_rocks:forest_rock_3",
+              "random_rotation": true,
+              "random_mirror": true,
+              "ignored_blocks": "minecraft:structure_block",
+              "offset": [
+                0,
+                -1,
+                0
+              ]
+            }
+          },
+          "placement": []
+        }
+      },
+      {
+        "chance": 0.2,
+        "feature": {
+          "feature": {
+            "type": "plants_and_rocks:structure_feature",
+            "config": {
+              "structure": "plants_and_rocks:forest_rock_4",
+              "random_rotation": true,
+              "random_mirror": true,
+              "ignored_blocks": "minecraft:structure_block",
+              "offset": [
+                0,
+                -1,
+                0
+              ]
+            }
+          },
+          "placement": []
+        }
+      },
+      {
+        "chance": 0.2,
+        "feature": {
+          "feature": {
+            "type": "plants_and_rocks:structure_feature",
+            "config": {
+              "structure": "plants_and_rocks:forest_rock_5",
+              "random_rotation": true,
+              "random_mirror": true,
+              "ignored_blocks": "minecraft:structure_block",
+              "offset": [
+                0,
+                -1,
+                0
+              ]
+            }
+          },
+          "placement": []
+        }
+      },
+      {
+        "chance": 1,
+        "feature": {
+          "feature": {
+            "type": "plants_and_rocks:structure_feature",
+            "config": {
+              "structure": "plants_and_rocks:forest_rock_6",
+              "random_rotation": true,
+              "random_mirror": true,
+              "ignored_blocks": "minecraft:structure_block",
+              "offset": [
+                0,
+                -1,
+                0
+              ]
+            }
+          },
+          "placement": []
+        }
+      }
+    ]
+  }
+}

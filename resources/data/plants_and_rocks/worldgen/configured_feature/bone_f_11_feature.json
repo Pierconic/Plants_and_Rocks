@@ -1,0 +1,9 @@
+{
+  "type": "plants_and_rocks:bone_f_11_feature",
+  "config": {
+    "structure": "plants_and_rocks:nether_stump_4",
+    "random_rotation": true,
+    "random_mirror": true,
+    "ignored_blocks": "minecraft:structure_block"
+  }
+}

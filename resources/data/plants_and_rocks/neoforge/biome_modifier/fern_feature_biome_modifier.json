@@ -1,0 +1,6 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "forest",
+  "features": "plants_and_rocks:fern_feature",
+  "step": "vegetal_decoration"
+}

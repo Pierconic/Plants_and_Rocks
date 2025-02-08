@@ -1,0 +1,9 @@
+{
+  "type": "plants_and_rocks:brown_mycelium_feature",
+  "config": {
+    "structure": "plants_and_rocks:brownmycelium",
+    "random_rotation": true,
+    "random_mirror": true,
+    "ignored_blocks": "minecraft:structure_block"
+  }
+}

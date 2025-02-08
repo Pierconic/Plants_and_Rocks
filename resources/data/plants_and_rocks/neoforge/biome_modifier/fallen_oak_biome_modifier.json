@@ -1,0 +1,15 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": [
+    "forest",
+    "swamp",
+    "dark_forest",
+    "plains",
+    "wooded_badlands",
+    "jungle",
+    "sparse_jungle",
+    "flower_forest"
+  ],
+  "features": "plants_and_rocks:fallen_oak",
+  "step": "surface_structures"
+}

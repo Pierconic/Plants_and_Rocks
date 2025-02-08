@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:jigsaw",
+  "start_pool": "plants_and_rocks:big_hive_2",
+  "size": 1,
+  "max_distance_from_center": 64,
+  "spawn_overrides": {},
+  "step": "surface_structures",
+  "terrain_adaptation": "none",
+  "start_height": {
+    "absolute": -5
+  },
+  "project_start_to_heightmap": "WORLD_SURFACE_WG",
+  "biomes": [
+    "flower_forest",
+    "cherry_grove"
+  ],
+  "use_expansion_hack": false
+}

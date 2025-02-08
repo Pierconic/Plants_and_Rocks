@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "beach",
+    "snowy_beach",
+    "stony_shore",
+    "frozen_river",
+    "river",
+    "#is_ocean"
+  ]
+}

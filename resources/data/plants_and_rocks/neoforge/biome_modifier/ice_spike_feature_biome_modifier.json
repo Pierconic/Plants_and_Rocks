@@ -1,0 +1,6 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "ice_spikes",
+  "features": "plants_and_rocks:ice_spike_feature",
+  "step": "surface_structures"
+}

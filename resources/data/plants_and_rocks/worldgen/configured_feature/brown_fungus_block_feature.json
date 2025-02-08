@@ -1,0 +1,14 @@
+{
+  "type": "plants_and_rocks:brown_fungus_block_feature",
+  "config": {
+    "structure": "plants_and_rocks:brown_shroom_tiny",
+    "random_rotation": true,
+    "random_mirror": true,
+    "ignored_blocks": "minecraft:structure_block",
+    "offset": [
+      0,
+      -1,
+      0
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "feature": "plants_and_rocks:stony_delta",
+  "placement": [
+    {
+      "type": "minecraft:in_square"
+    },
+    {
+      "type": "minecraft:biome"
+    },
+    {
+      "type": "minecraft:rarity_filter",
+      "chance": 1
+    }
+  ]
+}

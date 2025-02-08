@@ -1,0 +1,6 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "old_growth_birch_forest",
+  "features": "plants_and_rocks:birch_rock_feature",
+  "step": "surface_structures"
+}

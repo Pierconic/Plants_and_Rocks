@@ -1,0 +1,10 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": [
+    "ice_spikes",
+    "snowy_taiga",
+    "deep_frozen_ocean"
+  ],
+  "features": "plants_and_rocks:ice_boulder_feature",
+  "step": "surface_structures"
+}

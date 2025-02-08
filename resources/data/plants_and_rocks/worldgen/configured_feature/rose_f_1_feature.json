@@ -1,0 +1,11 @@
+{
+  "type": "plants_and_rocks:rose_f_1_feature",
+  "config": {
+    "to_place": {
+      "type": "minecraft:simple_state_provider",
+      "state": {
+        "Name": "minecraft:bone_block"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": [
+    "desert",
+    "deep_lukewarm_ocean",
+    "plains",
+    "lukewarm_ocean",
+    "warm_ocean",
+    "beach"
+  ],
+  "features": "plants_and_rocks:sand_rock_feature",
+  "step": "surface_structures"
+}

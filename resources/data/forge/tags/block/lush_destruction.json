@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:moss_carpet",
+    "minecraft:short_grass",
+    "minecraft:tall_grass",
+    "minecraft:azalea",
+    "minecraft:flowering_azalea",
+    "minecraft:water",
+    "minecraft:air"
+  ]
+}

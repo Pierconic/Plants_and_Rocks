@@ -1,0 +1,6 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "mangrove_swamp",
+  "features": "plants_and_rocks:fallen_mangrove",
+  "step": "surface_structures"
+}

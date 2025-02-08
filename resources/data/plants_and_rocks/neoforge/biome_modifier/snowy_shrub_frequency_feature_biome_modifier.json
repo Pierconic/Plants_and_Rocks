@@ -1,0 +1,10 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": [
+    "grove",
+    "snowy_plains",
+    "snowy_taiga"
+  ],
+  "features": "plants_and_rocks:snowy_shrub_frequency_feature",
+  "step": "surface_structures"
+}

@@ -1,0 +1,13 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": [
+    "ice_spikes",
+    "snowy_beach",
+    "snowy_taiga",
+    "grove",
+    "deep_frozen_ocean",
+    "deep_cold_ocean"
+  ],
+  "features": "plants_and_rocks:ice_rock",
+  "step": "surface_structures"
+}

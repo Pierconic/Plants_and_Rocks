@@ -1,0 +1,9 @@
+{
+  "type": "plants_and_rocks:tooth_6_feature",
+  "config": {
+    "structure": "plants_and_rocks:tooth_7",
+    "random_rotation": true,
+    "random_mirror": true,
+    "ignored_blocks": "minecraft:structure_block"
+  }
+}

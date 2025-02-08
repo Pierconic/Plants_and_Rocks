@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    "cold_ocean",
+    "deep_cold_ocean",
+    "deep_frozen_ocean",
+    "frozen_ocean",
+    "frozen_peaks",
+    "frozen_river",
+    "grove",
+    "ice_spikes",
+    "snowy_slopes",
+    "snowy_beach",
+    "snowy_plains",
+    "snowy_taiga"
+  ]
+}

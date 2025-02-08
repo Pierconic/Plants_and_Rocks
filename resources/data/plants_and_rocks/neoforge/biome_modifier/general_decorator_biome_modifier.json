@@ -1,0 +1,6 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "#is_overworld",
+  "features": "plants_and_rocks:general_decorator",
+  "step": "surface_structures"
+}

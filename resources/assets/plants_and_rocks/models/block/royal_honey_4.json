@@ -1,0 +1,10 @@
+{
+  "parent": "plants_and_rocks:custom/royal_honey_1",
+  "textures": {
+    "all": "plants_and_rocks:block/1",
+    "particle": "plants_and_rocks:block/1",
+    "0": "plants_and_rocks:block/royal_honey_animation",
+    "1": "plants_and_rocks:block/innerroyalty"
+  },
+  "render_type": "translucent"
+}

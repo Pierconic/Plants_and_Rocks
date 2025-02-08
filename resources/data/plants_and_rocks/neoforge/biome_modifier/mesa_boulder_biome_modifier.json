@@ -1,0 +1,14 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": [
+    "savanna",
+    "savanna_plateau",
+    "plains",
+    "windswept_savanna",
+    "badlands",
+    "eroded_badlands",
+    "wooded_badlands"
+  ],
+  "features": "plants_and_rocks:mesa_boulder",
+  "step": "surface_structures"
+}
